@@ -17,8 +17,6 @@ Typing `vagrant` from the command line will display a list of all available comm
   vagrant up
 ```
 
-- _Note_: [Windows Disable Hyper-V](docs/windows.md)
-
 2. SSH into the VM
 
 ```bash
