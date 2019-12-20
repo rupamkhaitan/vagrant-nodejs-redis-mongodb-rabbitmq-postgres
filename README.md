@@ -1,6 +1,6 @@
 # Dev box
 
-- A vagrant project with an ubuntu box with the tools needed to do cnMaestro development.
+- A vagrant project with an ubuntu box with the tools needed to do your development.
   - Install Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)
   - Install Vagrant (https://www.vagrantup.com/downloads.html)
   - Install Vagrant Plugin
@@ -11,7 +11,7 @@ Typing `vagrant` from the command line will display a list of all available comm
 
 ## Setting up VM
 
-1. Install VM by running below commands from `cnmaestro-apps/vagrant` directory
+1. Install VM by running below commands your project directory
 
 ```bash
   vagrant up
