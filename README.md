@@ -4,8 +4,8 @@
   - Install Oracle Virtual Box (https://www.virtualbox.org/wiki/Downloads)
   - Install Vagrant (https://www.vagrantup.com/downloads.html)
   - Install Vagrant Plugin
-    `vagrant plugin install vagrant-disksize`
-    `vagrant plugin install vagrant-env`
+    - `vagrant plugin install vagrant-disksize`
+    - `vagrant plugin install vagrant-env`
 
 Typing `vagrant` from the command line will display a list of all available commands.
 
