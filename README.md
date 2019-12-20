@@ -11,7 +11,7 @@ Typing `vagrant` from the command line will display a list of all available comm
 
 ## Setting up VM
 
-1. Install VM by running below commands your project directory
+1. Install VM by running below command
 
 ```bash
   vagrant up
